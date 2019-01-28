@@ -4,3 +4,5 @@ dev branch
 i'm in release branch
 i'm in dev branch
 i'm in release branch too.
+i'm in dev branch too.
+
