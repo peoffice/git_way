@@ -3,3 +3,4 @@ hello world
 dev branch
 i'm in release branch
 i'm in dev branch
+i'm in release branch too.
